@@ -56,13 +56,18 @@ npm install
 ```
 
 ### 🔑 **3. Konfiguracja środowiska**
-Utwórz plik `.env` i dodaj klucze API:
+Utwórz plik `.env` w folderze data-dashboard oraz server i dodaj klucze API:
+data-dashboard ->
 ```env
-REACT_APP_WEATHER_API_KEY=twoj_klucz
-REACT_APP_CRYPTO_API_KEY=twoj_klucz
+REACT_APP_GITHUB_CLIENT_ID=twoj_klucz
+REACT_APP_API_URL=http://localhost:5001
+REACT_APP_OPENWEATHER_API_KEY=twoj_klucz
 REACT_APP_NEWS_API_KEY=twoj_klucz
-REACT_APP_GITHUB_CLIENT_ID=twoj_client_id
-REACT_APP_GITHUB_CLIENT_SECRET=twoj_client_secret
+```
+server ->
+```env
+GITHUB_CLIENT_ID=twoj_klucz
+GITHUB_CLIENT_SECRET=twoj_klucz
 ```
 
 ### ▶️ **4. Uruchomienie aplikacji**
