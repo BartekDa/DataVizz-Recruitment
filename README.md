@@ -10,7 +10,7 @@ Data Dashboard to aplikacja webowa, która agreguje dane z różnych publicznych
 - **Logowanie przez GitHub OAuth 2.0** 🔐
 - **Pobieranie danych z publicznych API** 🌍
 - **Interaktywne wykresy i wizualizacje** 📊
-- **Filtry do wyboru danych (miasto, kryptowaluta, kategoria wiadomości)** 🔍
+- **Filtry do wyboru danych (miasto)** 🔍
 - **Automatyczna aktualizacja danych w czasie rzeczywistym** ⏳
 - **Responsywny design (mobile & desktop)** 📱💻
 
