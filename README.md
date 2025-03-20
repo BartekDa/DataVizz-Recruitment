@@ -51,6 +51,9 @@ cd server
 ```
 
 ### 📦 **2. Instalacja zależności**
+
+folder data-dashboard oraz server 
+
 ```bash
 npm install
 ```
