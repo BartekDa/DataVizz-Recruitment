@@ -74,8 +74,13 @@ GITHUB_CLIENT_SECRET=twoj_klucz
 ```
 
 ### ▶️ **4. Uruchomienie aplikacji**
+data-dashboard
 ```bash
 npm start
+```
+server
+```bash
+node index.js
 ```
 Aplikacja będzie dostępna pod adresem: **http://localhost:3000** 🌍
 
