@@ -88,3 +88,7 @@ Aplikacja będzie dostępna pod adresem: **http://localhost:3000** 🌍
 
 ## ✨ Autor
 Stworzone przez **[BARTŁOMIEJ DADEJ]** 🚀
+![Zrzut ekranu 2025-03-20 o 17 06 37](https://github.com/user-attachments/assets/ff67fd35-6fee-4f10-83f0-2f785a6e4fc9)
+![Zrzut ekranu 2025-03-20 o 17 07 05](https://github.com/user-attachments/assets/d67eefd1-6e96-4b29-94c6-5e81c4a03150)
+![Zrzut ekranu 2025-03-20 o 17 07 23](https://github.com/user-attachments/assets/324d1b79-2d49-49e7-b1b3-28d08d867f3f)
+![Zrzut ekranu 2025-03-20 o 17 07 41](https://github.com/user-attachments/assets/6d2d37b0-4615-4039-a0c3-c60a6a911f1a)
