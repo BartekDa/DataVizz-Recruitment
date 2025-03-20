@@ -86,19 +86,5 @@ Aplikacja będzie dostępna pod adresem: **http://localhost:3000** 🌍
 
 ---
 
-## 🚀 Deployment
-Aby wdrożyć aplikację na **Vercel** lub **Netlify**:
-1. Zaloguj się na platformie (Vercel/Netlify)
-2. Połącz repozytorium GitHub
-3. Skonfiguruj zmienne środowiskowe
-4. Deploy! 🎉
-
----
-
-## 📜 Licencja
-Projekt udostępniony na licencji MIT.
-
----
-
 ## ✨ Autor
-Stworzone przez **[Twoje Imię]** 🚀
+Stworzone przez **[BARTŁOMIEJ DADEJ]** 🚀
