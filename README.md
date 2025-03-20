@@ -46,6 +46,8 @@ Data Dashboard to aplikacja webowa, która agreguje dane z różnych publicznych
 ```bash
 git clone https://github.com/twoj-user/data-dashboard.git
 cd data-dashboard
+git clone https://github.com/twoj-user/server.git
+cd server
 ```
 
 ### 📦 **2. Instalacja zależności**
